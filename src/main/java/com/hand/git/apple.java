@@ -5,5 +5,7 @@ public class apple {
 		System.out.println("edit");
 		System.out.println("good");
 		System.out.println("crollter");
+		System.out.println("word");
+		System.out.println("good");
 	}
 }
